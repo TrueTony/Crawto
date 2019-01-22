@@ -1,10 +1,8 @@
-# Crawto
+# Liblive
 
-Crawto is a crawler for web-pages, that`s collects all internal links from website.
+Liblive is a service, that allows you to find out about the availability of book from your livelib`s wishlist in the library.
 
 # Getting started
 
-Crawto accept up to two parameters:
- 
- * First - link to website
- * Second (optional)  - the number of threads (default is four)
+After deploying, you need to create an account in which you specified your livelib`s nickname.
+Next by using button 'Update list of books', will begin synchronization base with your wishlist. When it will be done, on main and other pages you will see a list of your books with a note of availability in the library.
